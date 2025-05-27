@@ -1,0 +1,23 @@
+{
+    "now": "2025-05-27T15:43:33.266Z",
+    "perfNow": 6179397.900000036,
+    "diagnosticCorrelation": "6fc1c597-3ab4-4f9f-9b62-65aa68f133c2",
+    "source": "DownloadSupportFiles",
+    "environment": {
+        "productName": "adf",
+        "buildVersion": "1.0.052025.12",
+        "environmentType": 3,
+        "resourceName": "adf-nyc-taxi-harshit",
+        "resourceRegion": "eastus",
+        "resourceGroup": "RGNYCTaxi",
+        "subscriptionId": "2b5b72e3-4c0e-45f5-991d-a4e6792ae2d1",
+        "sessionId": "Y6R77dJl1lSZCiV5TzjiDd",
+        "operationId": "",
+        "gitType": "live",
+        "loggingKey": "ba9965da-1fcc-495e-9e5d-a0585c5099dd"
+    },
+    "additionalInfo": {
+        "selectedResource": "nycwebtodatalake",
+        "selectedResourceType": "pipeline"
+    }
+}

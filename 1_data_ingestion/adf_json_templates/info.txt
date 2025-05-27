@@ -1,0 +1,6 @@
+selected resource name:		nycwebtodatalake
+selected resource type:		pipeline
+factory name:			adf-nyc-taxi-harshit
+factory location:		eastus
+subscription id:		2b5b72e3-4c0e-45f5-991d-a4e6792ae2d1
+time of download (UTC):		Tue, 27 May 2025 15:43:33 GMT
