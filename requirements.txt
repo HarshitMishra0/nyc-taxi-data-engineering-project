@@ -1,0 +1,6 @@
+Azure Free Tier Account or Azure Subscription account.
+Resource Group.
+Storage Accound with Hierarchical Namespaces Enabled (For using ADLS Gen 2).
+Services- ADB and ADF.
+Service Principle for ADB authentication.
+Willingness to learn😝
