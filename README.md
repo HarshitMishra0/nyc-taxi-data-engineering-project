@@ -13,8 +13,6 @@ An End-to-End Azure-based Data Engineering project leveraging:
 
 - `1_data_ingestion/`: ADF dynamic pipelines and JSON exports
 - `2_data_transformation/`: PySpark scripts for processing
-- `3_data_lake/`: Sample outputs in Parquet format
-- `4_visuals_and_docs/`: Diagrams and architecture notes
 
 ---
 
@@ -32,7 +30,8 @@ An End-to-End Azure-based Data Engineering project leveraging:
 
 ## 📊 Architecture Overview
 
-![architecture_diagram](./4_visuals_and_docs/architecture_diagram.png)
+![architecture_diagram]
+<img width="1269" alt="Screenshot 2025-04-25 at 9 20 54 AM" src="https://github.com/user-attachments/assets/17908964-7731-4909-a807-310b0c9ad356" />
 
 ---
 
