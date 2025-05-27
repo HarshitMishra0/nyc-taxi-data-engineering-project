@@ -31,7 +31,8 @@ An End-to-End Azure-based Data Engineering project leveraging:
 ## 📊 Architecture Overview
 
 ![architecture_diagram]
-<img width="1269" alt="Screenshot 2025-04-25 at 9 20 54 AM" src="https://github.com/user-attachments/assets/17908964-7731-4909-a807-310b0c9ad356" />
+![WhatsApp Image 2025-05-27 at 9 50 39 PM](https://github.com/user-attachments/assets/94669a8d-b472-4bc9-8a37-d4696806fdb3)
+
 
 ---
 
